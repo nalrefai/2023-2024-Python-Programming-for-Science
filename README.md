@@ -1,14 +1,12 @@
-# CS 404/504 – Special Topics: Python Programming for Data Science
-[University of Idaho](https://www.uidaho.edu) - [Department of Computer Science](https://www.uidaho.edu/engr/departments/cs)
+# COMP 207 Python Programming for Science
 
-Instructor: [Alex Vakanski](https://www.webpages.uidaho.edu/vakanski/index.html)
+Instructor: Dr. Nashat Alrefai
 
-Semester: Fall 2022 (August 22 – December 16)
+Semester:  2023 -2024
 
-<a href="CS_404_504-ST_Python_Programming_for_Data_Science-Syllabus.pdf">Course Syllabus</a>
 
 # Lectures:
-* <a href="Lectures/Lecture 1 - A Short History of AI/Lecture 1 - A Short History of AI.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
+
 ## Theme 1: Python Programming
 * <a href="Lectures/Theme 1 - Python Programming/Lecture 2 - Data Types in Python/Lecture 2 - Data Types.ipynb">Lecture 2 - Data Types in Python</a>
 * <a href="Lectures/Theme 1 - Python Programming/Lecture 3 - Statements, Files/Lecture 3 - Statements, Files.ipynb">Lecture 3 - Statements, Files</a>
